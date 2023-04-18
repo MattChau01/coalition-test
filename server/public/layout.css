@@ -1,5 +1,26 @@
 @media screen and (min-width: 500px) {
-  .css-class {
-    /* styles here */
+  .carousel-content {
+    margin-top: 23rem;
+  }
+
+  .header {
+    font-size: 14px;
+  }
+
+  .footer-two {
+    font-size: 1.5rem;
+  }
+
+  .carousel-img {
+    width: 220px;
+    height: 140px;
+  }
+
+  .schedule {
+    margin-left: 20%;
+  }
+
+  .m1 {
+    margin-left: 40%;
   }
 }

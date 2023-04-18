@@ -1,0 +1,124 @@
+.main {
+  background-image: url("./assets/main.PNG");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 800px;
+}
+
+.v1 {
+  background-image: url("./assets/v1.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 800px;
+}
+
+.v2 {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 800px;
+}
+
+.footer {
+  height: 5rem;
+}
+
+.footer-two {
+  font-family: "Bebas Neue", cursive;
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: #6a83b1;
+}
+
+.of {
+  overflow-x: hidden;
+}
+
+.wht-txt {
+  color: #fff;
+}
+
+.header {
+  font-family: Lato, sans-serif;
+  font-style: italic;
+  font-weight: 600;
+  font-size: 10px;
+  text-decoration: underline;
+}
+
+.logo-name {
+  font-family: "Bebas Neue", cursive;
+  font-size: 1.5rem;
+  line-height: 1.5rem;
+}
+
+.num {
+  font-family: Oswald, sans-serif;
+  font-size: 5.5rem;
+  font-weight: 800;
+  color: #677795;
+}
+
+.label {
+  font-family: Oswald, sans-serif;
+  font-weight: 600;
+  font-size: 2rem;
+  color: #354360;
+}
+
+.carousel-bg {
+  background-color: #3e4d6acc;
+  height: 250px;
+}
+
+.carousel-content {
+  margin-top: 17.5rem;
+}
+
+.carousel-img {
+  width: 180px;
+  height: 120px;
+  margin: 10px;
+}
+
+a,
+i {
+  cursor: pointer;
+  padding: 0 5px;
+}
+
+.mount-tab-bg {
+  background-color: rgb(62, 77, 106);
+  font-family: Oswald, sans-serif;
+  font-size: 1.5rem;
+}
+
+.m1,
+.m2 {
+  cursor: pointer;
+}
+
+.schedule {
+  background-color: #fff;
+  width: 340px;
+  height: 300px;
+  margin-top: 3rem;
+}
+
+.schedule-header {
+  font-family: Oswald, sans-serif;
+  font-size: 2rem;
+  font-weight: 600;
+  color: #3e4d6acc;
+}
+
+.footer-logo-name {
+  color: #6a83b1;
+}
+
+.end-footer {
+  background-color: #404f6b;
+  font-weight: 700;
+}
